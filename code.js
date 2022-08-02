@@ -1,7 +1,7 @@
 setTimeout(ligacao,500)
 
 function ligacao(){
-	
+//Ligação JS / HTML	
 var reset = document.getElementById("reset")
 var jx = document.getElementById("jx")
 var jo = document.getElementById("jo")
