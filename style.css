@@ -7,10 +7,10 @@ h1 {
 }
 
 #jogadores  {
-  text-align: center;
-  width:300px;
+ 	text-align: center;
+	width:300px;
 	height:100px;
 	margin-top:50px;
 	margin-left:50%;
-  margin-rigth:50%;  
+  	margin-rigth:50%;  
 }
